@@ -14,4 +14,10 @@ Gem::Specification.new do |gem|
   gem.name          = "zueribad"
   gem.require_paths = ["lib"]
   gem.version       = Zueribad::VERSION
+
+  gem.add_runtime_dependency 'nokogiri'
+
+  gem.add_development_dependency 'rake'
+  gem.add_development_dependency 'rspec'
+  gem.add_development_dependency 'nyan-cat-formatter'
 end

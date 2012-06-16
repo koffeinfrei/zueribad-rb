@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bathinfos>
+<baths>
+  <bath>
+    <title>Flussbad Au-Höngg</title>
+    <temperatureWater>18</temperatureWater>
+    <dateModified>Sa, 16.06.2012 14:26</dateModified>
+    <openClosedTextPlain><![CDATA[geöffnet]]></openClosedTextPlain>
+    <urlPage>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/flussbad_au_hoengg.html</urlPage>
+    <pathPage>/content/ssd/de/index/sport/schwimmen/sommerbaeder/flussbad_au_hoengg</pathPage>
+    <urlAddressAndOpeningHours>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/flussbad_au_hoengg/adresse/jcr:content/contenttabparsys/_ffnungszeiten.html</urlAddressAndOpeningHours>
+  </bath>
+  <bath>
+    <title>Flussbad Oberer Letten</title>
+    <temperatureWater>10</temperatureWater>
+    <dateModified>Mo, 14.05.2012 08:48</dateModified>
+    <openClosedTextPlain><![CDATA[Saisonstart 16. Juni 2012]]></openClosedTextPlain>
+    <urlPage>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/flussbad_oberer_letten.html</urlPage>
+    <pathPage>/content/ssd/de/index/sport/schwimmen/sommerbaeder/flussbad_oberer_letten</pathPage>
+    <urlAddressAndOpeningHours>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/flussbad_oberer_letten/adresse/jcr:content/contenttabparsys/_ffnungszeiten.html</urlAddressAndOpeningHours>
+  </bath>
+  <bath>
+    <title>Flussbad Unterer Letten</title>
+    <temperatureWater>21</temperatureWater>
+    <dateModified>Sa, 16.06.2012 14:18</dateModified>
+    <openClosedTextPlain><![CDATA[geöffnet]]></openClosedTextPlain>
+    <urlPage>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/flussbad_unterer_letten.html</urlPage>
+    <pathPage>/content/ssd/de/index/sport/schwimmen/sommerbaeder/flussbad_unterer_letten</pathPage>
+    <urlAddressAndOpeningHours>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/flussbad_unterer_letten/adresse/jcr:content/contenttabparsys/_ffnungszeiten.html</urlAddressAndOpeningHours>
+  </bath>
+  <bath>
+    <title>Frauenbad Stadthausquai</title>
+    <temperatureWater>17</temperatureWater>
+    <dateModified>Sa, 16.06.2012 10:02</dateModified>
+    <openClosedTextPlain><![CDATA[geöffnet]]></openClosedTextPlain>
+    <urlPage>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/frauenbad_stadthausquai.html</urlPage>
+    <pathPage>/content/ssd/de/index/sport/schwimmen/sommerbaeder/frauenbad_stadthausquai</pathPage>
+    <urlAddressAndOpeningHours>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/frauenbad_stadthausquai/adresse/jcr:content/contenttabparsys/_ffnungszeiten.html</urlAddressAndOpeningHours>
+  </bath>
+  <bath>
+    <title>Freibad Allenmoos</title>
+    <temperatureWater>20</temperatureWater>
+    <dateModified>Sa, 16.06.2012 09:50</dateModified>
+    <openClosedTextPlain><![CDATA[geöffnet]]></openClosedTextPlain>
+    <urlPage>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_allenmoos.html</urlPage>
+    <pathPage>/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_allenmoos</pathPage>
+    <urlAddressAndOpeningHours>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_allenmoos/adresse/jcr:content/contenttabparsys/_ffnungszeiten.html</urlAddressAndOpeningHours>
+  </bath>
+  <bath>
+    <title>Freibad Auhof</title>
+    <temperatureWater>25</temperatureWater>
+    <dateModified>Sa, 16.06.2012 08:38</dateModified>
+    <openClosedTextPlain><![CDATA[geöffnet]]></openClosedTextPlain>
+    <urlPage>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_auhof.html</urlPage>
+    <pathPage>/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_auhof</pathPage>
+    <urlAddressAndOpeningHours>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_auhof/adresse/jcr:content/contenttabparsys/_ffnungszeiten.html</urlAddressAndOpeningHours>
+  </bath>
+  <bath>
+    <title>Freibad Heuried</title>
+    <temperatureWater>24</temperatureWater>
+    <dateModified>Sa, 16.06.2012 16:14</dateModified>
+    <openClosedTextPlain><![CDATA[geöffnet]]></openClosedTextPlain>
+    <urlPage>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_heuried.html</urlPage>
+    <pathPage>/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_heuried</pathPage>
+    <urlAddressAndOpeningHours>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_heuried/adresse/jcr:content/contenttabparsys/_ffnungszeiten.html</urlAddressAndOpeningHours>
+  </bath>
+  <bath>
+    <title>Freibad Letzigraben</title>
+    <temperatureWater>23</temperatureWater>
+    <dateModified>Sa, 16.06.2012 08:25</dateModified>
+    <openClosedTextPlain><![CDATA[geöffnet]]></openClosedTextPlain>
+    <urlPage>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_letzigraben.html</urlPage>
+    <pathPage>/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_letzigraben</pathPage>
+    <urlAddressAndOpeningHours>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_letzigraben/adresse/jcr:content/contenttabparsys/_ffnungszeiten.html</urlAddressAndOpeningHours>
+  </bath>
+  <bath>
+    <title>Freibad Seebach</title>
+    <temperatureWater>26</temperatureWater>
+    <dateModified>Sa, 16.06.2012 12:51</dateModified>
+    <openClosedTextPlain><![CDATA[geöffnet]]></openClosedTextPlain>
+    <urlPage>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_seebach.html</urlPage>
+    <pathPage>/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_seebach</pathPage>
+    <urlAddressAndOpeningHours>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_seebach/adresse/jcr:content/contenttabparsys/_ffnungszeiten.html</urlAddressAndOpeningHours>
+  </bath>
+  <bath>
+    <title>Freibad Zwischen den Hölzern</title>
+    <temperatureWater>20</temperatureWater>
+    <dateModified>Sa, 16.06.2012 09:12</dateModified>
+    <openClosedTextPlain><![CDATA[geöffnetbis20h]]></openClosedTextPlain>
+    <urlPage>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_zwischen_den_hoelzern.html</urlPage>
+    <pathPage>/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_zwischen_den_hoelzern</pathPage>
+    <urlAddressAndOpeningHours>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/freibad_zwischen_den_hoelzern/adresse/jcr:content/contenttabparsys/_ffnungszeiten.html</urlAddressAndOpeningHours>
+  </bath>
+  <bath>
+    <title>Seebad Katzensee</title>
+    <temperatureWater>22</temperatureWater>
+    <dateModified>Sa, 16.06.2012 12:23</dateModified>
+    <openClosedTextPlain><![CDATA[geöffnet]]></openClosedTextPlain>
+    <urlPage>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/seebad_katzensee.html</urlPage>
+    <pathPage>/content/ssd/de/index/sport/schwimmen/sommerbaeder/seebad_katzensee</pathPage>
+    <urlAddressAndOpeningHours>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/seebad_katzensee/adresse/jcr:content/contenttabparsys/_ffnungszeiten.html</urlAddressAndOpeningHours>
+  </bath>
+  <bath>
+    <title>Seebad Utoquai</title>
+    <temperatureWater>19</temperatureWater>
+    <dateModified>Sa, 16.06.2012 06:47</dateModified>
+    <openClosedTextPlain><![CDATA[geöffnet]]></openClosedTextPlain>
+    <urlPage>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/seebad_utoquai.html</urlPage>
+    <pathPage>/content/ssd/de/index/sport/schwimmen/sommerbaeder/seebad_utoquai</pathPage>
+    <urlAddressAndOpeningHours>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/seebad_utoquai/adresse/jcr:content/contenttabparsys/_ffnungszeiten.html</urlAddressAndOpeningHours>
+  </bath>
+  <bath>
+    <title>Strandbad Mythenquai</title>
+    <temperatureWater>19</temperatureWater>
+    <dateModified>Sa, 16.06.2012 14:10</dateModified>
+    <openClosedTextPlain><![CDATA[geöffnet]]></openClosedTextPlain>
+    <urlPage>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/strandbad_mythenquai.html</urlPage>
+    <pathPage>/content/ssd/de/index/sport/schwimmen/sommerbaeder/strandbad_mythenquai</pathPage>
+    <urlAddressAndOpeningHours>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/strandbad_mythenquai/adresse/jcr:content/contenttabparsys/_ffnungszeiten.html</urlAddressAndOpeningHours>
+  </bath>
+  <bath>
+    <title>Strandbad Tiefenbrunnen</title>
+    <temperatureWater>19</temperatureWater>
+    <dateModified>Sa, 16.06.2012 15:06</dateModified>
+    <openClosedTextPlain><![CDATA[geöffnet]]></openClosedTextPlain>
+    <urlPage>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/strandbad_tiefenbrunnen.html</urlPage>
+    <pathPage>/content/ssd/de/index/sport/schwimmen/sommerbaeder/strandbad_tiefenbrunnen</pathPage>
+    <urlAddressAndOpeningHours>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/strandbad_tiefenbrunnen/adresse/jcr:content/contenttabparsys/_ffnungszeiten.html</urlAddressAndOpeningHours>
+  </bath>
+  <bath>
+    <title>Strandbad Wollishofen </title>
+    <temperatureWater>19</temperatureWater>
+    <dateModified>Sa, 16.06.2012 08:40</dateModified>
+    <openClosedTextPlain><![CDATA[geöffnet]]></openClosedTextPlain>
+    <urlPage>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/strandbad_wollishofen.html</urlPage>
+    <pathPage>/content/ssd/de/index/sport/schwimmen/sommerbaeder/strandbad_wollishofen</pathPage>
+    <urlAddressAndOpeningHours>http://www.stadt-zuerich.ch/content/ssd/de/index/sport/schwimmen/sommerbaeder/strandbad_wollishofen/adresse/jcr:content/contenttabparsys/_ffnungszeiten.html</urlAddressAndOpeningHours>
+  </bath>
+</baths>
+<meta>
+  <dateformat>EE, dd.MM.yyyy HH:mm</dateformat>
+  <uvindexValue>8</uvindexValue>
+  <uvindexImgUrl>http://www.stadt-zuerich.ch/apps/stzh/statics/media/uvindex/uvindex_08.gif</uvindexImgUrl>
+  <uvindexImgPath>/apps/stzh/statics/media/uvindex/uvindex_08.gif</uvindexImgPath>
+  <uvindexLegalText>Quelle:&#160;MeteoSchweiz</uvindexLegalText>
+  <uvindexImgLinkPath>/ssd/de/index/sport/schwimmen/uv_schutz.html</uvindexImgLinkPath>
+  <urlLegal>http://www.stadt-zuerich.ch/portal/de/index/footer/rechtliche_hinweise.html</urlLegal>
+  <dateTimeSent>Sa, 16.06.2012 17:00</dateTimeSent>
+  <dateTimeLastModified>Sa, 16.06.2012 16:14</dateTimeLastModified>
+  <orderedBy>
+    <property>{page}jcr:content/navTitle</property>
+    <mode>ascending</mode>
+  </orderedBy>
+</meta>
+</bathinfos>
