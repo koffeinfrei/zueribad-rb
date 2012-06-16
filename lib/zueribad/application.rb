@@ -8,12 +8,15 @@
 module Zueribad
   class Application
 
-    def fetch
-      if options.has_key?(:name)
-        baths = Bath.fetch(options[:name])
-      else
-        baths = Bath.fetch
+    def baths
+      if @baths.nil?
+        if options.has_key?(:name)
+          @baths = Bath.fetch(options[:name])
+        else
+          @baths = Bath.fetch
+        end
       end
+      @baths
     end
 
     def options
@@ -32,6 +35,13 @@ module Zueribad
         end.parse!
       end
       @options
+    end
+
+    def max_lengths
+      {
+        :name => baths.collect{ |x| x.name }.sort_by(&:length).last.length,
+        :open_status => baths.collect{ |x| x.open_status }.sort_by(&:length).last.length
+      }
     end
   end
 end
