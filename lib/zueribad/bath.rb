@@ -24,7 +24,7 @@ module Zueribad
     end
 
     def self.fetch(name = nil)
-      doc = Nokogiri::Slop(open(SERVICE_URL).read)
+      doc = Nokogiri::Slop(self.download)
 
       baths = doc.bathinfos.baths.bath.map do |x|
         Bath.new(:name => x.title.content,
@@ -38,6 +38,10 @@ module Zueribad
       else
         baths
       end
+    end
+
+    def self.download
+      open(SERVICE_URL).read
     end
   end
 end

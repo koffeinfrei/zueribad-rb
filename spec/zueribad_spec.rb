@@ -3,6 +3,13 @@ require 'zueribad'
 module Zueribad
   describe Bath do
 
+    before do
+      # stub to load xml from fixtures instead of server
+      path = File.join(File.dirname(__FILE__), 'fixtures', 'baths.xml')
+      data = File.read(path)
+      Bath.stub(:download => data)
+    end
+
     context '#fetch' do
       context 'no param' do
 
