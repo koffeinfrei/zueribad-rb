@@ -1,24 +1,22 @@
-# Zueribad::Rb
+# Zueribad
 
-TODO: Write a gem description
+Displays the temperature and additional information about all municipal baths in Zurich.
+
+The data is provided by the [school and sports department of the city of Zurich](http://www.stadt-zuerich.ch/ssd/de/index/sport/schwimmen.html).
+
+This is the CLI written in ruby.
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'zueribad-rb'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install zueribad-rb
+    $ gem install zueribad
 
 ## Usage
 
-TODO: Write usage instructions here
+    # show all baths
+    $ zueribad
+
+    # show baths containing 'letten' in their name
+    $ zueribad -n letten
 
 ## Contributing
 
