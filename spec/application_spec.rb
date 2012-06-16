@@ -33,5 +33,15 @@ module Zueribad
         @application.max_lengths[:open_status].should be == 3
       end
     end
+
+    context '#output' do
+      context 'filtered by name' do
+        it 'should put stdout twice' do
+          ARGV << '-n' << 'letten'
+          STDOUT.should_receive(:puts).exactly(2).times
+          Application.new.output
+        end
+      end
+    end
   end
 end

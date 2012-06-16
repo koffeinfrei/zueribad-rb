@@ -8,6 +8,13 @@
 module Zueribad
   class Application
 
+    def self.run
+      app = Application.new
+      app.options
+      app.baths
+      app.output
+    end
+
     def baths
       if @baths.nil?
         if options.has_key?(:name)
@@ -35,6 +42,17 @@ module Zueribad
         end.parse!
       end
       @options
+    end
+
+    def output
+      baths.each do |bath|
+        puts "%-#{max_lengths[:name]}s | %-2s°C | %-#{max_lengths[:open_status]}s | %s" % [
+          bath.name,
+          bath.temperature,
+          bath.open_status,
+          bath.modified_at
+        ]
+      end
     end
 
     def max_lengths
