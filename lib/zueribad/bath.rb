@@ -8,7 +8,7 @@
 module Zueribad
   class Bath
 
-    SERVICE_URL = 'http://www.stadt-zuerich.ch/stzh/bathdatadownload'
+    SERVICE_URL = 'https://www.stadt-zuerich.ch/stzh/bathdatadownload'
 
     attr_accessor :name
     attr_accessor :temperature
